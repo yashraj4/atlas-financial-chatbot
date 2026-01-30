@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+langchain
+langchain-google-genai
+langchain-groq
+langgraph
+langchain-community
+chromadb
+duckduckgo-search
+tavily-python
+wikipedia
+pydantic
+python-dotenv
+psycopg2-binary
+sqlalchemy
+httpx
+requests
