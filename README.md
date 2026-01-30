@@ -62,7 +62,8 @@ TAVILY_API_KEY=your_tavily_key
 ```
 
 ## 📸 Screenshots
-*(Add screenshots of the Atlas UI here)*
+<img width="1910" height="831" alt="image" src="https://github.com/user-attachments/assets/7266b20b-4958-4bb6-958e-be4bf02e1af3" />
+
 
 ## 🤝 Contribution
 Feel free to fork this repository and submit pull requests to enhance Atlas's capabilities!
